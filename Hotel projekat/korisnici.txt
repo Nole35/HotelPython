@@ -1,0 +1,9 @@
+Miro23|jordan|Miroslav|Mir|064537800|chi6@gmail.com|True|administrator
+Cobe24|brajant|Cican|Cicak|0654049125|lal5@gmail.com|True|korisnik|
+Ana10|mesi|Ana|Antonic|0642763864|bar4@gmail.com|True|korisnik|
+Kris7|ronaldoa|Kristijan|Krstic|0627591762|cr7@gmail.com|True|korisnik|
+Jana2|barabar|Jana|Jankovic|0650023426|crnka1@gmail.com|True|recepcioner|101010
+Julija|romeo|Julijana|Zavida|0623123800|plavusa1@gmail.com|True|recepcioner|202020
+Mira3|skoric|Mirjana|Mirovic|065000876|crvenokosa1@gmail.com|False|recepcioner|303030
+ada|ada|ada|ada|123|ada|True|korisnik
+Novica|diskus|Novica |Lazic|061461287|nole@gmail.com|True|recepcioner|707072

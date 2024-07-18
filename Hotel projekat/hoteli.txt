@@ -1,0 +1,9 @@
+101010|Moskva|Etno Selo|101,102,103|DA|DA|4.9|True
+202020|Drina|Galac|104,105,106|DA|NE|2.4|True
+303030|Sico|Racanska|107,108,109|DA|NE|3.6|True
+404040|Plaza|More|110,110,112|da|DA|4.2|True
+505050|Meteor|Amajlije|113,114,115|DA|DA|3.8|True
+606060|Grand|Velika Obarska|116,117,118|DA|DA|4.8|True
+707070|Nesvil|Batkovic|119,120,121|NE|NE|1.9|True
+707071|topcider|ada|25,5|NE|DA|-1.0|False
+707072|Ribarac|Otok|122,123,124|ne|DA|-1.0|True
